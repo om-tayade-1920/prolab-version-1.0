@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for prolab(Project sharing application)",
+  "keywords": [
+    "Prolab",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Om Tayade",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
